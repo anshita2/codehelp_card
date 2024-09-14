@@ -1,0 +1,39 @@
+
+div{
+    width:400px;
+}
+    img{
+        width: 400px;
+        height: 210;
+    border-radius: 10px;
+}
+figcaption{
+    margin-top:10px;
+    font-size:x-large;
+    font-weight: 700;
+}
+strike{
+    font-weight: bolder;
+    color: gray;
+    margin: 10px;
+}
+span{
+    font-weight:bolder;
+    color: blue;
+    margin-left: 40px;
+}
+button{
+    color:white;
+    font-weight: bolder;
+    background-color: rgb(104, 247, 104);
+    border-radius: 5px;
+    border:none;
+    height: 25px;
+    width:70px;
+}
+hr{
+    width:75%;
+    float: left;
+    color: gray;
+    margin-left: 40px;
+}
